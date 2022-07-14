@@ -3,7 +3,6 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: inherit;
 }
 
 html {
@@ -21,13 +20,13 @@ body {
 /* LAYOUT */
 header {
   position: relative;
-  height: 35vh;
+  height: 30vh;
   border-bottom: 7px solid #eee;
 }
 
 main {
-  height: 65vh;
-  color: #eee;
+  height: 70vh;
+  color: red;
   display: flex;
   align-items: center;
   justify-content: space-around;
